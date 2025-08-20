@@ -2,8 +2,8 @@
 
 💻 Aspiring Software Engineer | Java & Android Developer | MERN Learner  
 
-🌐 [Portfolio Website](https://bhargav-indimandala.github.io/portfolio)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
+🌐 [Portfolio Website](https://bhargav-indimandala.github.io/Bhargavportfolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhargav-indimandala-9718b0324)  
 📧 [Email](mailto:bhargavchowdhary18@gmail.com)  
 🐙 [GitHub](https://github.com/Bhargav-indimandala)  
 
