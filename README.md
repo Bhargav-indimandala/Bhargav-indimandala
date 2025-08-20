@@ -1,11 +1,10 @@
-# Hi 👋, I'm Bhargav Indimandala  
+## 🌐 Connect with Me  
 
-💻 Aspiring Software Engineer | Java & Android Developer | MERN Learner  
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-View-blue?style=for-the-badge)](https://bhargav-indimandala.github.io/Bhargavportfolio/)  
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-indimandala-9718b0324)  
+[![Email](https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bhargavchowdhary18@gmail.com)  
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Bhargav-indimandala)  
 
-🌐 [Portfolio Website](https://bhargav-indimandala.github.io/Bhargavportfolio/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhargav-indimandala-9718b0324)  
-📧 [Email](mailto:bhargavchowdhary18@gmail.com)  
-🐙 [GitHub](https://github.com/Bhargav-indimandala)  
 
 <!--
 **Bhargav-indimandala/Bhargav-indimandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
