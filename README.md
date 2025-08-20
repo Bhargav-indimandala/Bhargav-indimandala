@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi 👋, I'm Bhargav Indimandala  
+
+💻 Aspiring Software Engineer | Java & Android Developer | MERN Learner  
+
+🌐 [Portfolio Website](https://bhargav-indimandala.github.io/portfolio)  
+🔗 [LinkedIn](https://linkedin.com/in/your-link)  
+📧 [Email](mailto:bhargavchowdhary18@gmail.com)  
+🐙 [GitHub](https://github.com/Bhargav-indimandala)  
 
 <!--
 **Bhargav-indimandala/Bhargav-indimandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
